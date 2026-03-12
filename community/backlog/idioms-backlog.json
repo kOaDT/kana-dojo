@@ -15,7 +15,7 @@
     "meaning": "Feel indebted or unable to oppose someone. (Set 1)",
     "id": 2,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "腰が重い",
@@ -24,7 +24,7 @@
     "meaning": "Slow to start doing something. (Set 1)",
     "id": 3,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "顔が広い",
@@ -33,7 +33,7 @@
     "meaning": "Have many connections. (Set 1)",
     "id": 4,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "口が堅い",
@@ -60,7 +60,7 @@
     "meaning": "Get angry. (Set 1)",
     "id": 7,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "手を抜く",
@@ -86,7 +86,7 @@
     "english": "Fast ears",
     "meaning": "Quick to hear news/gossip. (Set 1)",
     "id": 10,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1079,6 +1079,6 @@
     "meaning": "Obtain something. (Set 6)",
     "id": 120,
     "issued": false,
-    "completed": false
+    "completed": true
   }
 ]
