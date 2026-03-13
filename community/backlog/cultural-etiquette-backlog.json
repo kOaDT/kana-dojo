@@ -698,8 +698,10 @@
     "dont": "笑いながら浅く頭を下げる",
     "note": "丁寧さは姿勢で伝わる。",
     "id": 78,
-    "issued": true,
-    "completed": false
+    "issued": false,
+    "completed": true,
+    "completedBy": "azfrohefalte",
+    "completedPR": 8448
   },
   {
     "situation": "エスカレーター 4",
