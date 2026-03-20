@@ -22,6 +22,17 @@
     "correctIndex": 0
   },
   {
+    "question": "Which Japanese island is known for the UNESCO site Shirakami-Sanchi?",
+    "difficulty": "hard",
+    "answers": [
+      "Honshu",
+      "Hokkaido",
+      "Shikoku",
+      "Kyushu"
+    ],
+    "correctIndex": 0
+  },
+  {
     "question": "Which Japanese city is famous for its street food district, Dotonbori? (Community variation 22)",
     "difficulty": "hard",
     "answers": [
@@ -29,17 +40,6 @@
       "Niigata",
       "Kagoshima",
       "Takayama"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the name of the traditional Japanese board game similar to chess?",
-    "difficulty": "hard",
-    "answers": [
-      "Shogi",
-      "Go",
-      "Mahjong",
-      "Reversi"
     ],
     "correctIndex": 0
   },
@@ -64,5 +64,38 @@
       "Comique"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "Which sea separates Japan from the Korean Peninsula?",
+    "difficulty": "hard",
+    "answers": [
+      "Sea of Japan",
+      "East China Sea",
+      "Philippine Sea",
+      "Bering Sea"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which Japanese city hosted the 1998 Winter Olympics?",
+    "difficulty": "hard",
+    "answers": [
+      "Nagano",
+      "Kobe",
+      "Hiroshima",
+      "Naha"
+    ],
+    "correctIndex": 0
+  },
+  {
+  "question": "What is the name of Japan's national currency?",
+  "difficulty": "hard",
+  "answers": [
+    "Yuan",
+    "Yen",
+    "Won",
+    "Rupee"
+  ],
+  "correctIndex": 1
   }
 ]
